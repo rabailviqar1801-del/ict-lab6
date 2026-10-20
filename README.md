@@ -6,3 +6,5 @@ This project asks for your name and says hello
 1.Install Python
 2.Run `python hello1.py` 
 Edited on GitHub.com
+## Author 
+Rabail, BEIS-06 A
